@@ -1,6 +1,0 @@
-User-agent: *
-Allow: /
-
-# Replace the line below with your real domain once it is connected,
-# then remove the # so search engines can find the sitemap.
-# Sitemap: https://www.mariamasadventures.com/sitemap.xml
